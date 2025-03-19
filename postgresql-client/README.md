@@ -129,4 +129,3 @@ This repository is open-source and follows the **MIT License**.
 ---
 
 ### 🚀 **Now You Can Use PostgreSQL Clients Without Installing PostgreSQL Server!**
-```
